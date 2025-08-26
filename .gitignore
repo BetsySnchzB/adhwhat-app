@@ -3,3 +3,6 @@ node_modules
 .env*
 .DS_Store
 mcp_config.json
+
+# Local MCP config containing secrets (do not commit)
+mcp_config.local.json

@@ -1,4 +1,4 @@
-# A-D-H-WHAT? — ADHD Support App
+# A-D-H-WHAT? - ADHD Support App
 
 A Next.js + Supabase app that helps users plan their day, track mood/energy, and manage tasks with simple dopamine-friendly flows.
 
@@ -28,3 +28,4 @@ cp .env.example .env.local        # fill in your values
 cp mcp_config.example.json mcp_config.local.json  # optional
 npm install
 npm run dev
+
